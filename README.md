@@ -2,7 +2,7 @@
 
 ### [Discord Server](https://discord.gg/eUxp5aXyzH)
 # EclipeSMP Official Modpack list
-#### **VERSION**:`0.12.0b`
+#### **VERSION**: `0.12.0b`
 ---
 
 
